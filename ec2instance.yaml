@@ -8,7 +8,7 @@ Resources:
   
       ImageId: ami-023dd49682f8a7c2b
   
-      InstanceType: t2.small
+      InstanceType: t2.micro
   
       SubnetId: subnet-0c37db12e6968000f
   
